@@ -1,0 +1,13 @@
+#homepage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#navbar {
+  height: 80px;
+  width: 90%;
+  background-color: rgb(216, 216, 216);
+  border-radius: 8px;
+  margin-top: 5px;
+}
